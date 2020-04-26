@@ -11,7 +11,7 @@ bot = commands.Bot(command_prefix='!')
 @bot.event
 async def on_ready():
     # 起動したらターミナルにログイン通知が表示される
-    print('お天気お姉さんログインしました。')
+    print('エロ動画見つけてきまっせ！')
 
 @bot.command()
 async def nuki(ctx, arg):

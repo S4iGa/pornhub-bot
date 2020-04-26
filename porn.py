@@ -1,8 +1,6 @@
 from pornhub_api import PornhubApi
 import asyncio
 from pornhub_api.backends.aiohttp import AioHttpBackend
-import random
-import pprint
 
 api = PornhubApi()
 
